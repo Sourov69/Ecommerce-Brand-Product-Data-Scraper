@@ -1,5 +1,5 @@
 # Men's Collection Data Scraper – Ecommerce Brand
-<img src="website_profile.png" alt="bs4 Logo">
+<img src="z_PROJECT_PREVIEW.png" alt="bs4 Logo">
 
 
 This project is a Python-based web scraping system designed to extract structured product data from the **Men’s Collection** section of my favorite online shopping brand.
